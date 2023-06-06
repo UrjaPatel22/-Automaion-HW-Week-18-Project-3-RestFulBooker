@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CRUD test","This will create a new Booking","SUCCESS","2023-06-05T14:07:00.050+01:00[Europe/London]","0.0","3.27"
+"Booking CRUD test","Verify if the booking was added to the application","SUCCESS","2023-06-05T14:07:03.333+01:00[Europe/London]","0.0","0.55"
+"Booking CRUD test","Update the Booking information and Verify the Updated information","SUCCESS","2023-06-05T14:07:03.883+01:00[Europe/London]","0.0","1.09"
+"Booking CRUD test","Get booking","SUCCESS","2023-06-05T14:07:04.970+01:00[Europe/London]","0.0","0.58"
+"Booking CRUD test","Update the partial Booking information and Verify the Updated information","SUCCESS","2023-06-05T14:07:05.556+01:00[Europe/London]","0.0","1.02"
+"Booking CRUD test","Delete the Booking and verify if the booking is deleted","SUCCESS","2023-06-05T14:07:06.584+01:00[Europe/London]","0.0","0.47"

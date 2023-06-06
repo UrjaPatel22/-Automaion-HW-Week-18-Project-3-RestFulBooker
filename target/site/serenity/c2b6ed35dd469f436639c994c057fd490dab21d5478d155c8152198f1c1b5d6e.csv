@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking tags test","This test will verify if a status code of 200 is returned for GET request","SUCCESS","2023-06-05T14:07:02.732+01:00[Europe/London]","0.0","0.7"
+"Booking tags test","This test will provide an error code of 404 when user tries to access an invalid resource","SUCCESS","2023-06-05T14:07:03.436+01:00[Europe/London]","0.0","0.54"
